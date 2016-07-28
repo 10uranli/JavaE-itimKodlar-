@@ -8,7 +8,9 @@ public class Degiskenler {
 		String Sehir = "Kars";
 		double doub = 1.0;
 		double x  = in+lo+doub;
+		char c = 'a';/*bir karakter alýr*/
 		System.out.println(Sehir+"'ýn kurtuluþu: "+x+"'dir.");
+		
 		
 
 	}
