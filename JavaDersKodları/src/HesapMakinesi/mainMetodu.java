@@ -46,7 +46,7 @@ public class mainMetodu {
 		}
 
 		
-		
+				
 	}
 	
 	public static int topla(int x, int y) {
