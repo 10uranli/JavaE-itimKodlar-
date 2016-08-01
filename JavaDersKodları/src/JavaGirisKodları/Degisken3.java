@@ -1,5 +1,6 @@
 package JavaGirisKodlarý;
 
+
 public class Degisken3 {
 public static void main(String[] args) {
 	byte a = Byte.MAX_VALUE;
