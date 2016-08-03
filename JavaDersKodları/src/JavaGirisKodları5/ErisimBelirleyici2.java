@@ -1,4 +1,4 @@
-package JavaGirisKodları5;
+package JavaGirisKodlarÄ±5;
 
 public class ErisimBelirleyici2 {
 

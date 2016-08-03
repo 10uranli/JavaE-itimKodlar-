@@ -1,13 +1,13 @@
-package JavaGirisKodları5;
+package JavaGirisKodlarÄ±5;
 
 
 public class ErisimBelirleyici {
 
-	protected int degisken1;//aynı paket erişti farklı paket erişemedi.
-	private int degisken2;//kimse erişemedi bana.Bundan dolaya get, set oluşturduk
-	public int degisken3;//herkes erişti bana
-	int degisken4;//aynı paket erişti, farklı paket erişemedi.
-	static ErisimBelirleyici4 nes = new ErisimBelirleyici4();//default class aynı pakette çağrılır.
+	protected int degisken1;//ayni paket eristi farkli erisemidi.
+	private int degisken2;//kimse erisemedi.Bundan dolayi set get olusturuldu.
+	public int degisken3;//herkes eristi bana
+	int degisken4;//ayni paket eristi, farkli paket erisemedi.
+	static ErisimBelirleyici4 nes = new ErisimBelirleyici4();//default class ayni pakette Ã§agrilir.
 	public static void main(String[] args) {
 		nes.hello();
 	}
