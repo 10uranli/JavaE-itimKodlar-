@@ -22,6 +22,7 @@ public class Trafik_Araba extends Trafik_Kural_Abstract {
 		araba.hýzlanma();
 		araba.koltukAyarý();
 		araba.arabaKontrol();
+
 		
 	}
 

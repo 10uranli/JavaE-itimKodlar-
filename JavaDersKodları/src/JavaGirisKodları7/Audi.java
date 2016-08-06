@@ -7,5 +7,5 @@ public class Audi extends Sahin{
 	public static void sporMod(){
 		System.out.println("spor moda geçtim");
 	}
-	
+	 
 }
